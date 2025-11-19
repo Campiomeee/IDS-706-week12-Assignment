@@ -127,3 +127,14 @@ python producer.py
 
 python -m streamlit run dashboard.py
 ```
+
+## Screenshots
+
+### Producer
+!["Producer"](../IDS-706-week12-Assignment/kafka_realtime_pipeline/screenshots/Streaming1.png)
+
+### Consumer
+!["Consumer"](../IDS-706-week12-Assignment/kafka_realtime_pipeline/screenshots/Streaming2.png)
+
+### Dashboard
+!["Dashboard"](../IDS-706-week12-Assignment/kafka_realtime_pipeline/screenshots/Streaming3.png)
