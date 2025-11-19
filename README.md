@@ -131,10 +131,10 @@ python -m streamlit run dashboard.py
 ## Screenshots
 
 ### Producer
-!["Producer"](screenshots/Streaming1.png)
+!["Producer"](kafka_realtime_pipeline/screenshots/Streaming1.png)
 
 ### Consumer
-!["Consumer"](screenshots/Streaming2.png)
+!["Consumer"](kafka_realtime_pipeline/screenshots/Streaming2.png)
 
 ### Dashboard
-!["Dashboard"](screenshots/Streaming3.png)
+!["Dashboard"](kafka_realtime_pipeline/screenshots/Streaming3.png)
